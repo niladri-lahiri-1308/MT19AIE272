@@ -11,6 +11,10 @@
 2. Run the container from the image and start the container using 'docker run --name name_we_want_to_give docker_image_sha256_generated_from_above_command'
 3. Run the webapp using 'python name_of_the_app.py'
 
+## App Functionality
+1. This is a static website and has a link to the documentation referred to make the Dockerfile
+2. On clicking the button, we reach the docker documentation page - https://docs.docker.com/engine/reference/builder/#run
+
 ## Below is the image from cmd
 ![alt text](https://github.com/niladri-lahiri-1308/MT19AIE272/blob/main/images/DockerCapture.PNG)
 
