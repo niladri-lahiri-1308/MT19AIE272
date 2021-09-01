@@ -19,3 +19,6 @@
 
 ## Below is the image of localhost from browser
 ![alt text](https://github.com/niladri-lahiri-1308/MT19AIE272/blob/main/images/DockerLocalHost.PNG)
+
+## Author
+Niladri Prosad Lahiri (MT19AIE272)
