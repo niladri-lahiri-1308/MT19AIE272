@@ -7,8 +7,8 @@
 
 ## Deploy web application using docker containers by creating docker image from scratch
 
-1. Build the docker image using 'docker build . -t test' (This has to be run in the directory where the Dockerfile is present)
-2. Run the container from the image and start the container using 'docker run -d -p 5000:5000 test (name given above on build)
+1. Build the docker image using "docker build . -t test" (This has to be run in the directory where the Dockerfile is present)
+2. Run the container from the image and start the container using "docker run -d -p 5000:5000 test" (name given above on build)
 
 ## App Functionality
 1. This is a static website and has a link to the documentation referred to make the Dockerfile
